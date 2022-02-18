@@ -1,6 +1,4 @@
-Via akun ngrok
-
-name: Windows-CRD
+name: Via Akun Ngrok
  
 on: 
   workflow_dispatch:
